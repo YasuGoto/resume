@@ -63,7 +63,7 @@
 |                        | CSS        | 3      | 1 年     |
 | ライブラリ             | React.js   | 1      | 1 年     |
 |                        | NestJS     | 2      | 2 年     |
-|                        | Express    | 1      | 0/5 年   |
+|                        | Express    | 1      | 0.5 年   |
 | ミドルウェア           | MySQL      | 2      | 3 年     |
 |                        | mongoDB    | 1      | 0.5 年   |
 | その他ツール・サービス | GraphQL    | 2      | 2 年     |

@@ -39,8 +39,6 @@
 - バックエンド
   - 言語：TypeScript,GraphQL
   - FW：NestJS
-- バックエンド
-  - 言語：Node.js
 - DB：MySQL
 - ソース管理：Git, GitHub
 - コミュニケーション：Slack, Zoom

@@ -23,6 +23,7 @@
 - フロントエンド
   - 言語：HTML, SCSS, JavaScript
   - ライブラリ：Pug, EJS
+  - デザインツール：Figma
 - ソース管理：Git, GitLab
 - コミュニケーション：Slack, Google meet, Teams
 - チケット管理：Backlog
@@ -39,11 +40,22 @@
 - バックエンド
   - 言語：TypeScript,GraphQL
   - FW：NestJS
+  - テストツール：Jest
 - DB：MySQL
 - ソース管理：Git, GitHub
-- コミュニケーション：Slack, Zoom
-- チケット管理：JIRA
+- コミュニケーション：Slack, Zoom, Google meet, Teams
+- チケット管理：JIRA, Redmine
 - その他：splunk
+
+### 株式会社グローバル技研（2019/4~2021/5） ※2019/10~2021/4 まで育児休暇取得
+
+|期間|サービス|担当業務|業務内容|実績・取り組み|
+|2019/4~2019/10|取引先の人事管理システム|テスト項目作成及び打鍵テスト|IT 未経験からの入社だったため、実務を通して IT の基本的なことを学びました。テスト項目作成を経験できました。|
+
+## 使用技術・ツール（一部抜粋）
+
+- OS：Windows
+- コミュニケーション：社内メール
 
 ### レベル
 
